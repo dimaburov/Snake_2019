@@ -1,0 +1,6 @@
+﻿  head.c
+C:\Users\MiNotebook\source\repos\snake\snake\head.c(100): warning C4013: time: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\MiNotebook\source\repos\snake\snake\head.c(71): warning C4101: pointstl: неиспользованная локальная переменная
+C:\Users\MiNotebook\source\repos\snake\snake\head.c(118): warning C4101: linez: неиспользованная локальная переменная
+C:\Users\MiNotebook\source\repos\snake\snake\head.c(71): warning C4101: pointstr: неиспользованная локальная переменная
+  snake.vcxproj -> C:\Users\MiNotebook\source\repos\snake\x64\Debug\snake.exe
